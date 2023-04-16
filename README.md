@@ -44,7 +44,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- Ruby on Rails 7.0.43
+- Ruby on Rails 7.0.4.3
 - Twitter Bootstap 4
 
 <details>
