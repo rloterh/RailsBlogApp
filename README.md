@@ -38,7 +38,7 @@
 
 > A Ruby on Rails blog application.
 
-**RailsBlogApp** is a simple demonstration of a blogging app with an authentication system that allows posting and commenting from various users.
+The big picture of **RailsBlogApp** a blogging app with an authentication system that allows posting and commenting from various users. This branch focuses on processing the data model.
 
 ## 🛠 Built With <a name="built-with"></a>
 
