@@ -38,7 +38,7 @@
 
 > A Ruby on Rails blog application.
 
-The big picture of **RailsBlogApp** a blogging app with an authentication system that allows posting and commenting from various users. This branch focuses on processing the data model.
+The big picture of **RailsBlogApp** a blogging app with an authentication system that allows posting and commenting from various users. This branch focuses on validating models and creating specs for the data model created in previous branch.
 
 ## 🛠 Built With <a name="built-with"></a>
 
